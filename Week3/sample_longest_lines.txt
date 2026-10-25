@@ -1,0 +1,7 @@
+Input file: sample.txt
+Total lines: 5
+Maximum line length: 37 characters
+Number of longest lines: 2
+
+Line 2: This line is exactly the longest one!
+Line 4: This line is exactly the longest two!
