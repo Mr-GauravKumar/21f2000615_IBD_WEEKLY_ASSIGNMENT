@@ -1,0 +1,11 @@
+customer_id,customer_name,city,dob
+c001,Customer_001,Bengaluru,2001-06-04T00:00:00.000Z
+c002,Customer_002_Upd,Kochi,2003-09-28T00:00:00.000Z
+c003,Customer_003,Chennai,1996-08-26T00:00:00.000Z
+c004,Customer_004,Coimbatore,1990-05-29T00:00:00.000Z
+c005,Customer_005,Bengaluru,1997-03-02T00:00:00.000Z
+c006,Customer_006,Coimbatore,1984-05-19T00:00:00.000Z
+c007,Customer_007_Upd,Bengaluru,1985-03-30T00:00:00.000Z
+c008,Customer_008,Bengaluru,1996-11-14T00:00:00.000Z
+c009,Customer_009,Hyderabad,1998-07-25T00:00:00.000Z
+c010,Customer_010,Pune,1981-04-01T00:00:00.000Z
